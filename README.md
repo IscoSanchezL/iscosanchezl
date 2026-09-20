@@ -4,6 +4,8 @@
 - [ClassDrive](https://github.com/iscosanchezl/classdrive)
 - [Correos_4to](https://iscosanchezl.github.io/Correos4to/)
 - [Proyecto_Paint_2do](https://iscosanchezl.github.io/Proyecto_Paint_2do/)
+- [Grado 6to°]
+- [Sistemas de Archivos](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
 
 ## 💼 Apps y proyectos personales
 - [RedNexo](https://github.com/IscoSanchezL/rednexo)
