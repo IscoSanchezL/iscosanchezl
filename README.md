@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Isco
 
-<!--
-**IscoSanchezL/iscosanchezl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏫 GI School / Educación
+- [ClassDrive](https://github.com/iscosanchezl/classdrive)
 
-Here are some ideas to get you started:
+## 💼 Apps y proyectos personales
+- [RedNexo](https://github.com/IscoSanchezL/rednexo)
+- [TechStore](https://github.com/iscosanchezl/techstore)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 UNIMINUTO
+- 
+
+## 🧪 Otros / experimentos
+-
