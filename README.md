@@ -9,7 +9,7 @@
 - [Grado 4to°]
 - [Correos_4to](https://iscosanchezl.github.io/Correos4to/)
 - [Grado 5to°]
-Grado 6to°
+- Grado 6to°
 - [Sistemas de Archivos](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
 
 ## 💼 Apps y proyectos personales
