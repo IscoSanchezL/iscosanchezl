@@ -1,4 +1,4 @@
-# 👋 Hola, Isco, en que trabajaremos hoy?
+# 👋 Hola, Isco, en que trabajáremos hoy?
 
 ## 🏫 GI School / Educación
 - [ClassDrive](https://github.com/iscosanchezl/classdrive)
