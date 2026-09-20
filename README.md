@@ -10,7 +10,7 @@
 - [TechStore](https://github.com/iscosanchezl/techstore)
 
 ## 🎓 UNIMINUTO
-- 
+- [Detective_ de_Carpetas](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
 
 ## 🧪 Otros / experimentos
 -
