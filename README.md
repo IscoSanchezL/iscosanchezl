@@ -3,6 +3,7 @@
 ## 🏫 GI School / Educación
 - [ClassDrive](https://github.com/iscosanchezl/classdrive)
 - Grado 1ro°
+- [El_Teclado]()
 - [Partes-del-computador](https://iscosanchezl.github.io/partes-del-computador/)
 - Grado 2do°
 - [Proyecto_Paint_2do](https://iscosanchezl.github.io/Proyecto_Paint_2do/)
