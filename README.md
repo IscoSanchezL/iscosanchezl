@@ -1,7 +1,7 @@
 # 👋 Hola, Isco, en que trabajáremos hoy?
 
 ## 🏫 GI School / Educación
-- [ClassDrive](https://github.com/iscosanchezl/classdrive)
+- [ClassDrive](https://iscosanchezl.github.io/classdrive/)
 - Grado 1ro°
 - [El_Teclado](https://iscosanchezl.github.io/Typing/)
 - [Partes-del-computador](https://iscosanchezl.github.io/partes-del-computador/)
