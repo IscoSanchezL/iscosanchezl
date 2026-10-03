@@ -2,6 +2,7 @@
 
 ## 🏫 GI School / Educación
 - [ClassDrive](https://classdrive-981c2.web.app)
+- [Teclea](https://iscosanchezl.github.io/Teclea/)
 - Grado 1ro°
 - [El_Teclado](https://iscosanchezl.github.io/Typing/)
 - [Partes-del-computador](https://iscosanchezl.github.io/partes-del-computador/)
