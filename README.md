@@ -6,6 +6,7 @@
 - Grado 1ro°
 - [El_Teclado](https://iscosanchezl.github.io/Typing/)
 - [Partes-del-computador](https://iscosanchezl.github.io/partes-del-computador/)
+- [Algoritmos](https://iscosanchezl.github.io/beto-algoritmos/)
 - Grado 2do°
 - [Proyecto_Paint_2do](https://iscosanchezl.github.io/Proyecto_Paint_2do/)
 - Grado 3ro°
