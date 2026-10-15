@@ -12,7 +12,7 @@
 - Grado 3ro°
 - [Goldberg Machine](https://iscosanchezl.github.io/Goldberg-Machine/)
 - Grado 4to°
-- [Kody](<img width="479" height="323" alt="image" src="https://github.com/user-attachments/assets/4fd47513-6185-4b29-8109-6e442529716f" />)
+- [Kody](https://iscosanchezl.github.io/Kody/)
 - [Correos_4to](https://iscosanchezl.github.io/Correos4to/)
 - Grado 5to°
 - Grado 6to°
