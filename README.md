@@ -16,6 +16,7 @@
 - [Correos_4to](https://iscosanchezl.github.io/Correos4to/)
 - Grado 5to°
 - Grado 6to°
+- [Hardware_Software](https://iscosanchezl.github.io/Hardware_Software/)
 - [Sistemas de Archivos](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
 
 ## 💼 Apps y proyectos personales
