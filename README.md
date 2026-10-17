@@ -18,12 +18,6 @@
 - Grado 6to°
 - [Hardware_Software](https://iscosanchezl.github.io/Hardware_Software/)
 - [Sistemas de Archivos](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
-
-## 💼 Apps y proyectos personales
-- [RedNexo](https://github.com/IscoSanchezL/rednexo)
-- [TechStore](https://github.com/iscosanchezl/techstore)
-
-## 🎓 UNIMINUTO
 - [Detective_ de_Carpetas](https://iscosanchezl.github.io/Detectives-de-Carpetas/)
 - [Laboratorio de Phishing](https://iscosanchezl.github.io/Laboratorio-anti-phishing/)
 
